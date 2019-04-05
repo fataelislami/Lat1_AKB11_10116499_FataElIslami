@@ -2,6 +2,8 @@ package com.fataelislami.tugasakb11;
 //NAMA : FATA EL ISLAMI
 //NIM  : 10116499
 //KELAS : AKB11/IF-11
+//TANGGAL : 5 APRIL 2019
+
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
