@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.fataelislami.tugasakb11;
 
 import org.junit.Test;
 

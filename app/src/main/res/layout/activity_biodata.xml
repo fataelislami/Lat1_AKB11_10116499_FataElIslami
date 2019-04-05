@@ -24,6 +24,7 @@
             android:layout_height="wrap_content"
             android:hint="Contoh : Budi"
             android:paddingBottom="20dp"
+            android:id="@+id/edtNama"
 
             />
         <TextView
@@ -39,6 +40,7 @@
             android:inputType="number"
             android:hint="Contoh : 12"
             android:paddingBottom="20dp"
+            android:id="@+id/edtUmur"
             />
     </LinearLayout>
     <FrameLayout
@@ -55,6 +57,7 @@
             android:background="@drawable/tombol"
             android:text="SELANJUTNYA"
             android:gravity="center"
+            android:id="@+id/btnSelanjutnya"
             />
 
     </FrameLayout>

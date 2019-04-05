@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myapplication">
+    package="com.fataelislami.tugasakb11">
 
     <application
         android:allowBackup="true"
@@ -9,10 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Greeting" android:exported="true"></activity>
-        <activity android:name=".Biodata" android:exported="true"/>
-        <activity android:name=".LoginCode" android:exported="true"/>
-        <activity android:name=".Welcome" android:exported="true">
+        <activity android:name="com.fataelislami.tugasakb11.Greeting" android:exported="true"></activity>
+        <activity android:name="com.fataelislami.tugasakb11.Biodata" android:exported="true"/>
+        <activity android:name="com.fataelislami.tugasakb11.LoginCode" android:exported="true"/>
+        <activity android:name="com.fataelislami.tugasakb11.Welcome" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -52,7 +52,9 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:background="@drawable/tombol"
-            android:text="MULAI" />
+            android:text="MULAI"
+            android:id="@+id/btnMulai2"
+            />
     </LinearLayout>
     <FrameLayout
         android:layout_width="match_parent"
